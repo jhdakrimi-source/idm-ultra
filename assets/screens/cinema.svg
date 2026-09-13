@@ -31,7 +31,7 @@
   <text x="340" y="78" font-family="Inter, sans-serif" font-size="13" fill="#8A8A8E">&#x2B50;</text>
   <!-- Hero poster: Dune Part Two -->
   <g clip-path="url(#heroClip)">
-    <image x="14" y="112" width="362" height="400" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w500/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg"/>
+    <image x="14" y="112" width="362" height="400" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w500/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"/>
     <rect x="14" y="112" width="362" height="400" fill="url(#heroGrad)"/>
   </g>
   <!-- Trending badge -->
@@ -51,21 +51,21 @@
   <text x="20" y="556" font-family="Inter, sans-serif" font-size="30" font-weight="800" fill="#FF7A1A">Movies</text>
   <rect x="16" y="568" width="108" height="160" rx="20" fill="#161616"/>
   <g clip-path="url(#p1)">
-    <image x="16" y="568" width="108" height="160" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg"/>
+    <image x="16" y="568" width="108" height="160" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"/>
     <rect x="16" y="680" width="108" height="48" fill="url(#p1g)"/>
   </g>
   <text x="24" y="712" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#fff">Dune: Part Two</text>
   <defs><linearGradient id="p1g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF7A1A" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.85"/></linearGradient></defs>
   <rect x="136" y="568" width="108" height="160" rx="20" fill="#171717"/>
   <g clip-path="url(#p2)">
-    <image x="136" y="568" width="108" height="160" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/9xkZ7eQvpZ0u6MY0rU0bYhNBJ4J.jpg"/>
+    <image x="136" y="568" width="108" height="160" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg"/>
     <rect x="136" y="680" width="108" height="48" fill="url(#p2g)"/>
   </g>
   <text x="144" y="712" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#fff">Interstellar</text>
   <defs><linearGradient id="p2g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF7A1A" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.85"/></linearGradient></defs>
   <rect x="256" y="568" width="108" height="160" rx="20" fill="#181818"/>
   <g clip-path="url(#p3)">
-    <image x="256" y="568" width="108" height="160" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/8UlWHLMpgZm9bx6QYh0zkoqAai6.jpg"/>
+    <image x="256" y="568" width="108" height="160" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"/>
     <rect x="256" y="680" width="108" height="48" fill="url(#p3g)"/>
   </g>
   <text x="264" y="712" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#fff">Avengers Endgame</text>
@@ -74,21 +74,21 @@
   <text x="20" y="772" font-family="Inter, sans-serif" font-size="30" font-weight="800" fill="#2E9EFF">Series</text>
   <rect x="16" y="784" width="108" height="150" rx="20" fill="#161616"/>
   <g clip-path="url(#p4)">
-    <image x="16" y="784" width="108" height="150" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/u3bZKGnTvtNCe6GAdpW0kPQftJX.jpg"/>
+    <image x="16" y="784" width="108" height="150" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg"/>
     <rect x="16" y="880" width="108" height="54" fill="url(#p4g)"/>
   </g>
   <text x="24" y="912" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#fff">House of Dragon</text>
   <defs><linearGradient id="p4g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2E9EFF" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.85"/></linearGradient></defs>
   <rect x="136" y="784" width="108" height="150" rx="20" fill="#171717"/>
   <g clip-path="url(#p5)">
-    <image x="136" y="784" width="108" height="150" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/gTq1Sny2qg9PJxR62Y8UmkU9H3U.jpg"/>
+    <image x="136" y="784" width="108" height="150" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg"/>
     <rect x="136" y="880" width="108" height="54" fill="url(#p5g)"/>
   </g>
   <text x="144" y="912" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#fff">Breaking Bad</text>
   <defs><linearGradient id="p5g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2E9EFF" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.85"/></linearGradient></defs>
   <rect x="256" y="784" width="108" height="150" rx="20" fill="#181818"/>
   <g clip-path="url(#p6)">
-    <image x="256" y="784" width="108" height="150" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/b1Y8SUb12gPHCSSSNlbX4nB3IKy.jpg"/>
+    <image x="256" y="784" width="108" height="150" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg"/>
     <rect x="256" y="880" width="108" height="54" fill="url(#p6g)"/>
   </g>
   <text x="264" y="912" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#fff">The Last of Us</text>

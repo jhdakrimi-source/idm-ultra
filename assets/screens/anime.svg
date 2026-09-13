@@ -29,21 +29,21 @@
   <!-- Row 1: Solo Leveling, Jujutsu Kaisen, Attack on Titan -->
   <rect x="14" y="216" width="116" height="176" rx="20" fill="#171717"/>
   <g clip-path="url(#a1)">
-    <image x="14" y="216" width="116" height="176" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/1M7S5rXjvoK9P7zXvYVJ5y0XjvR.jpg"/>
+    <image x="14" y="216" width="116" height="176" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg"/>
     <rect x="14" y="340" width="116" height="52" fill="url(#pg)"/>
   </g>
   <text x="22" y="366" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#fff">Solo Leveling</text>
   <text x="22" y="382" font-family="Inter, sans-serif" font-size="10" fill="#FFC107">&#x2605; 8.8</text>
   <rect x="140" y="216" width="116" height="176" rx="20" fill="#181818"/>
   <g clip-path="url(#a2)">
-    <image x="140" y="216" width="116" height="176" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/7bKJ2k2jBj5xfqM9p2CxZVv0KzF.jpg"/>
+    <image x="140" y="216" width="116" height="176" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/6qQzMJG27XOJsyAEEIisoJB45j2.jpg"/>
     <rect x="140" y="340" width="116" height="52" fill="url(#pg)"/>
   </g>
   <text x="148" y="366" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#fff">Jujutsu Kaisen</text>
   <text x="148" y="382" font-family="Inter, sans-serif" font-size="10" fill="#FFC107">&#x2605; 9.0</text>
   <rect x="266" y="216" width="116" height="176" rx="20" fill="#191919"/>
   <g clip-path="url(#a3)">
-    <image x="266" y="216" width="116" height="176" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/hEPg9O9iyEiFKtZcJqGWYj8FlT9.jpg"/>
+    <image x="266" y="216" width="116" height="176" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg"/>
     <rect x="266" y="340" width="116" height="52" fill="url(#pg)"/>
   </g>
   <text x="274" y="366" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#fff">AoT Final</text>
@@ -51,21 +51,21 @@
   <!-- Row 2: Demon Slayer, Chainsaw Man, One Piece -->
   <rect x="14" y="414" width="116" height="176" rx="20" fill="#1A1A1A"/>
   <g clip-path="url(#a4)">
-    <image x="14" y="414" width="116" height="176" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/xnQb2r8aF0Z2K8n0V0Pw1VZtZXm.jpg"/>
+    <image x="14" y="414" width="116" height="176" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg"/>
     <rect x="14" y="538" width="116" height="52" fill="url(#pg)"/>
   </g>
   <text x="22" y="564" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#fff">Demon Slayer</text>
   <text x="22" y="580" font-family="Inter, sans-serif" font-size="10" fill="#FFC107">&#x2605; 8.7</text>
   <rect x="140" y="414" width="116" height="176" rx="20" fill="#1B1B1B"/>
   <g clip-path="url(#a5)">
-    <image x="140" y="414" width="116" height="176" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/wdWnZzK8Z9y9x4XmQwqXvQkHKuK.jpg"/>
+    <image x="140" y="414" width="116" height="176" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/iFM1dyFi0rByvEomEkmm7NpQeeb.jpg"/>
     <rect x="140" y="538" width="116" height="52" fill="url(#pg)"/>
   </g>
   <text x="148" y="564" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#fff">Chainsaw Man</text>
   <text x="148" y="580" font-family="Inter, sans-serif" font-size="10" fill="#FFC107">&#x2605; 8.9</text>
   <rect x="266" y="414" width="116" height="176" rx="20" fill="#1C1C1C"/>
   <g clip-path="url(#a6)">
-    <image x="266" y="414" width="116" height="176" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/cMD0qqX7j6PZE0m5UjH5xrY4K9J.jpg"/>
+    <image x="266" y="414" width="116" height="176" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg"/>
     <rect x="266" y="538" width="116" height="52" fill="url(#pg)"/>
   </g>
   <text x="274" y="564" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#fff">One Piece</text>

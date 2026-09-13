@@ -35,7 +35,7 @@
   <rect x="14" y="272" width="362" height="112" rx="20" fill="#121212" stroke="#262626"/>
   <rect x="30" y="288" width="60" height="84" rx="12" fill="#1C1C1C"/>
   <g clip-path="url(#t1)">
-    <image x="30" y="288" width="60" height="84" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg"/>
+    <image x="30" y="288" width="60" height="84" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"/>
   </g>
   <text x="104" y="310" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#fff">Dune: Part Two</text>
   <text x="104" y="330" font-family="Inter, sans-serif" font-size="11" fill="#8A8A8E">4K HDR · 2160p</text>
@@ -48,7 +48,7 @@
   <rect x="14" y="396" width="362" height="112" rx="20" fill="#121212" stroke="#262626"/>
   <rect x="30" y="412" width="60" height="84" rx="12" fill="#1C1C1C"/>
   <g clip-path="url(#t2)">
-    <image x="30" y="412" width="60" height="84" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/hEPg9O9iyEiFKtZcJqGWYj8FlT9.jpg"/>
+    <image x="30" y="412" width="60" height="84" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg"/>
   </g>
   <text x="104" y="434" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#fff">Attack on Titan S04</text>
   <text x="104" y="454" font-family="Inter, sans-serif" font-size="11" fill="#8A8A8E">1080p · Ep 12</text>

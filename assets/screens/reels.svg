@@ -22,7 +22,7 @@
   <g>
     <clipPath id="reelClip"><rect x="14" y="112" width="362" height="640" rx="20"/></clipPath>
     <g clip-path="url(#reelClip)">
-      <image x="14" y="112" width="362" height="640" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w500/3pwJqDfygN0YNNjWsDUOXclCp3h.jpg"/>
+      <image x="14" y="112" width="362" height="640" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w500/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg"/>
       <rect x="14" y="112" width="362" height="640" fill="url(#reelGrad)"/>
     </g>
   </g>
