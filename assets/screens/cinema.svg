@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+  <!-- Background -->
+  <rect width="390" height="844" fill="#0A0A0A"/>
+  <defs>
+    <linearGradient id="heroGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FF7A1A" stop-opacity="0.45"/>
+      <stop offset="0.4" stop-color="#0A0A0A"/>
+      <stop offset="1" stop-color="#0A0A0A"/>
+    </linearGradient>
+    <linearGradient id="badgeGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF7A1A"/>
+      <stop offset="1" stop-color="#FF3860"/>
+    </linearGradient>
+    <clipPath id="heroClip"><rect x="14" y="112" width="362" height="400" rx="20"/></clipPath>
+    <clipPath id="p1"><rect x="16" y="568" width="108" height="160" rx="20"/></clipPath>
+    <clipPath id="p2"><rect x="136" y="568" width="108" height="160" rx="20"/></clipPath>
+    <clipPath id="p3"><rect x="256" y="568" width="108" height="160" rx="20"/></clipPath>
+    <clipPath id="p4"><rect x="16" y="618" width="108" height="110" rx="16"/></clipPath>
+    <clipPath id="p5"><rect x="136" y="618" width="108" height="110" rx="16"/></clipPath>
+    <clipPath id="p6"><rect x="256" y="618" width="108" height="110" rx="16"/></clipPath>
+  </defs>
+  <!-- Status bar -->
+  <text x="24" y="32" font-family="Inter, sans-serif" font-size="13" fill="#8A8A8E">9:41</text>
+  <rect x="362" y="18" width="22" height="11" rx="3" fill="#8A8A8E"/>
+  <!-- Header -->
+  <rect x="0" y="44" width="390" height="58" fill="#0A0A0A"/>
+  <text x="20" y="82" font-family="Inter, sans-serif" font-size="26" font-weight="800" fill="#FF7A1A">Cinema</text>
+  <circle cx="300" cy="73" r="14" fill="#1A1A1A" stroke="#FF7A1A" stroke-width="1"/>
+  <text x="295" y="78" font-family="Inter, sans-serif" font-size="13" fill="#FF7A1A">&#x1F50D;</text>
+  <circle cx="345" cy="73" r="14" fill="#1A1A1A" stroke="#8A8A8E" stroke-width="1"/>
+  <text x="340" y="78" font-family="Inter, sans-serif" font-size="13" fill="#8A8A8E">&#x2B50;</text>
+  <!-- Hero poster: Dune Part Two -->
+  <g clip-path="url(#heroClip)">
+    <image x="14" y="112" width="362" height="400" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w500/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg"/>
+    <rect x="14" y="112" width="362" height="400" fill="url(#heroGrad)"/>
+  </g>
+  <!-- Trending badge -->
+  <rect x="30" y="128" width="132" height="26" rx="13" fill="url(#badgeGrad)"/>
+  <text x="42" y="146" font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#fff">#1 TRENDING TODAY</text>
+  <!-- Hero title + meta -->
+  <text x="30" y="410" font-family="Inter, sans-serif" font-size="25" font-weight="800" fill="#fff">Dune: Part Two</text>
+  <text x="30" y="440" font-family="Inter, sans-serif" font-size="14" font-weight="800" fill="#FFC107">&#x2605; 8.9</text>
+  <rect x="62" y="427" width="1" height="12" fill="#8A8A8E"/>
+  <text x="72" y="440" font-family="Inter, sans-serif" font-size="12" fill="#B0B0B6">4K HDR · 2024</text>
+  <!-- Play button -->
+  <rect x="30" y="462" width="250" height="48" rx="24" fill="#FF7A1A"/>
+  <text x="150" y="493" font-family="Inter, sans-serif" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">&#x25B6;  Play now</text>
+  <rect x="292" y="462" width="48" height="48" rx="24" fill="#1A1A1A" stroke="#3A3A3A" stroke-width="1"/>
+  <text x="316" y="491" font-family="Inter, sans-serif" font-size="20" fill="#fff" text-anchor="middle">+</text>
+  <!-- Section: Movies -->
+  <text x="20" y="556" font-family="Inter, sans-serif" font-size="30" font-weight="800" fill="#FF7A1A">Movies</text>
+  <rect x="16" y="568" width="108" height="160" rx="20" fill="#161616"/>
+  <g clip-path="url(#p1)">
+    <image x="16" y="568" width="108" height="160" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg"/>
+    <rect x="16" y="680" width="108" height="48" fill="url(#p1g)"/>
+  </g>
+  <text x="24" y="712" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#fff">Dune: Part Two</text>
+  <defs><linearGradient id="p1g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF7A1A" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.85"/></linearGradient></defs>
+  <rect x="136" y="568" width="108" height="160" rx="20" fill="#171717"/>
+  <g clip-path="url(#p2)">
+    <image x="136" y="568" width="108" height="160" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/9xkZ7eQvpZ0u6MY0rU0bYhNBJ4J.jpg"/>
+    <rect x="136" y="680" width="108" height="48" fill="url(#p2g)"/>
+  </g>
+  <text x="144" y="712" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#fff">Interstellar</text>
+  <defs><linearGradient id="p2g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF7A1A" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.85"/></linearGradient></defs>
+  <rect x="256" y="568" width="108" height="160" rx="20" fill="#181818"/>
+  <g clip-path="url(#p3)">
+    <image x="256" y="568" width="108" height="160" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/8UlWHLMpgZm9bx6QYh0zkoqAai6.jpg"/>
+    <rect x="256" y="680" width="108" height="48" fill="url(#p3g)"/>
+  </g>
+  <text x="264" y="712" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#fff">Avengers Endgame</text>
+  <defs><linearGradient id="p3g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF7A1A" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.85"/></linearGradient></defs>
+  <!-- Section: Series -->
+  <text x="20" y="772" font-family="Inter, sans-serif" font-size="30" font-weight="800" fill="#2E9EFF">Series</text>
+  <rect x="16" y="784" width="108" height="150" rx="20" fill="#161616"/>
+  <g clip-path="url(#p4)">
+    <image x="16" y="784" width="108" height="150" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/u3bZKGnTvtNCe6GAdpW0kPQftJX.jpg"/>
+    <rect x="16" y="880" width="108" height="54" fill="url(#p4g)"/>
+  </g>
+  <text x="24" y="912" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#fff">House of Dragon</text>
+  <defs><linearGradient id="p4g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2E9EFF" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.85"/></linearGradient></defs>
+  <rect x="136" y="784" width="108" height="150" rx="20" fill="#171717"/>
+  <g clip-path="url(#p5)">
+    <image x="136" y="784" width="108" height="150" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/gTq1Sny2qg9PJxR62Y8UmkU9H3U.jpg"/>
+    <rect x="136" y="880" width="108" height="54" fill="url(#p5g)"/>
+  </g>
+  <text x="144" y="912" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#fff">Breaking Bad</text>
+  <defs><linearGradient id="p5g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2E9EFF" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.85"/></linearGradient></defs>
+  <rect x="256" y="784" width="108" height="150" rx="20" fill="#181818"/>
+  <g clip-path="url(#p6)">
+    <image x="256" y="784" width="108" height="150" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w342/b1Y8SUb12gPHCSSSNlbX4nB3IKy.jpg"/>
+    <rect x="256" y="880" width="108" height="54" fill="url(#p6g)"/>
+  </g>
+  <text x="264" y="912" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#fff">The Last of Us</text>
+  <defs><linearGradient id="p6g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2E9EFF" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.85"/></linearGradient></defs>
+  <!-- Bottom nav -->
+  <rect x="0" y="790" width="390" height="54" fill="#121212"/>
+  <rect x="0" y="790" width="390" height="1" fill="#262626"/>
+  <text x="39" y="820" font-family="Inter, sans-serif" font-size="11" fill="#8A8A8E" text-anchor="middle">&#x2193;</text>
+  <text x="39" y="836" font-family="Inter, sans-serif" font-size="9" fill="#8A8A8E" text-anchor="middle">Download</text>
+  <text x="117" y="820" font-family="Inter, sans-serif" font-size="11" fill="#8A8A8E" text-anchor="middle">&#x25C7;</text>
+  <text x="117" y="836" font-family="Inter, sans-serif" font-size="9" fill="#8A8A8E" text-anchor="middle">Anime</text>
+  <circle cx="195" cy="812" r="18" fill="#FF7A1A" fill-opacity="0.18"/>
+  <text x="195" y="820" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FF7A1A" text-anchor="middle">&#x25B6;</text>
+  <text x="195" y="836" font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#FF7A1A" text-anchor="middle">Cinema</text>
+  <text x="273" y="820" font-family="Inter, sans-serif" font-size="11" fill="#8A8A8E" text-anchor="middle">&#x26A1;</text>
+  <text x="273" y="836" font-family="Inter, sans-serif" font-size="9" fill="#8A8A8E" text-anchor="middle">Reels</text>
+  <text x="351" y="820" font-family="Inter, sans-serif" font-size="11" fill="#8A8A8E" text-anchor="middle">&#x2609;</text>
+  <text x="351" y="836" font-family="Inter, sans-serif" font-size="9" fill="#8A8A8E" text-anchor="middle">Hub</text>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+  <!-- Background -->
+  <rect width="390" height="844" fill="#0A0A0A"/>
+  <defs>
+    <linearGradient id="reelGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FF3860" stop-opacity="0.45"/>
+      <stop offset="0.3" stop-color="#0A0A0A" stop-opacity="0.2"/>
+      <stop offset="0.75" stop-color="#000" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+  <!-- Status bar -->
+  <text x="24" y="32" font-family="Inter, sans-serif" font-size="13" fill="#8A8A8E">9:41</text>
+  <rect x="362" y="18" width="22" height="11" rx="3" fill="#8A8A8E"/>
+  <!-- Header -->
+  <rect x="0" y="44" width="390" height="58" fill="#0A0A0A"/>
+  <text x="20" y="82" font-family="Inter, sans-serif" font-size="26" font-weight="800" fill="#FF3860">Reels</text>
+  <rect x="300" y="58" width="74" height="28" rx="14" fill="#121212" stroke="#FF3860" stroke-opacity="0.5"/>
+  <text x="337" y="76" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FF3860" text-anchor="middle">EN</text>
+  <!-- Full-screen reel video with poster -->
+  <rect x="14" y="112" width="362" height="640" rx="20" fill="#0D0D0D"/>
+  <g>
+    <clipPath id="reelClip"><rect x="14" y="112" width="362" height="640" rx="20"/></clipPath>
+    <g clip-path="url(#reelClip)">
+      <image x="14" y="112" width="362" height="640" preserveAspectRatio="xMidYMid slice" href="https://image.tmdb.org/t/p/w500/3pwJqDfygN0YNNjWsDUOXclCp3h.jpg"/>
+      <rect x="14" y="112" width="362" height="640" fill="url(#reelGrad)"/>
+    </g>
+  </g>
+  <!-- Title + meta -->
+  <text x="30" y="560" font-family="Inter, sans-serif" font-size="16" font-weight="800" fill="#fff">The Last Sunrise</text>
+  <text x="30" y="586" font-family="Inter, sans-serif" font-size="12" fill="#B0B0B6">EP 24 · Romance Drama</text>
+  <!-- Progress bar -->
+  <rect x="14" y="748" width="362" height="2" rx="1" fill="#262626"/>
+  <rect x="14" y="748" width="240" height="2" rx="1" fill="#FF3860"/>
+  <text x="30" y="772" font-family="Inter, sans-serif" font-size="10" fill="#fff">12:24</text>
+  <text x="360" y="772" font-family="Inter, sans-serif" font-size="10" fill="#8A8A8E" text-anchor="end">18:05</text>
+  <!-- Play/pause center -->
+  <circle cx="195" cy="360" r="34" fill="#fff" fill-opacity="0.15"/>
+  <text x="195" y="372" font-family="Inter, sans-serif" font-size="24" fill="#fff" text-anchor="middle">&#x2759;&#x2759;</text>
+  <!-- Right side icons -->
+  <text x="352" y="440" font-family="Inter, sans-serif" font-size="22" fill="#fff" text-anchor="middle">&#x2661;</text>
+  <text x="352" y="462" font-family="Inter, sans-serif" font-size="10" fill="#B0B0B6" text-anchor="middle">12.4k</text>
+  <text x="352" y="500" font-family="Inter, sans-serif" font-size="22" fill="#fff" text-anchor="middle">&#x1F4AC;</text>
+  <text x="352" y="522" font-family="Inter, sans-serif" font-size="10" fill="#B0B0B6" text-anchor="middle">1.2k</text>
+  <text x="352" y="560" font-family="Inter, sans-serif" font-size="22" fill="#fff" text-anchor="middle">&#x21E8;</text>
+  <text x="352" y="582" font-family="Inter, sans-serif" font-size="10" fill="#B0B0B6" text-anchor="middle">Share</text>
+  <!-- Bottom nav -->
+  <rect x="0" y="790" width="390" height="54" fill="#121212"/>
+  <rect x="0" y="790" width="390" height="1" fill="#262626"/>
+  <text x="39" y="820" font-family="Inter, sans-serif" font-size="11" fill="#8A8A8E" text-anchor="middle">&#x2193;</text>
+  <text x="39" y="836" font-family="Inter, sans-serif" font-size="9" fill="#8A8A8E" text-anchor="middle">Download</text>
+  <text x="117" y="820" font-family="Inter, sans-serif" font-size="11" fill="#8A8A8E" text-anchor="middle">&#x25C7;</text>
+  <text x="117" y="836" font-family="Inter, sans-serif" font-size="9" fill="#8A8A8E" text-anchor="middle">Anime</text>
+  <text x="195" y="820" font-family="Inter, sans-serif" font-size="11" fill="#8A8A8E" text-anchor="middle">&#x25B6;</text>
+  <text x="195" y="836" font-family="Inter, sans-serif" font-size="9" fill="#8A8A8E" text-anchor="middle">Cinema</text>
+  <circle cx="273" cy="812" r="18" fill="#FF3860" fill-opacity="0.18"/>
+  <text x="273" y="820" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FF3860" text-anchor="middle">&#x26A1;</text>
+  <text x="273" y="836" font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#FF3860" text-anchor="middle">Reels</text>
+  <text x="351" y="820" font-family="Inter, sans-serif" font-size="11" fill="#8A8A8E" text-anchor="middle">&#x2609;</text>
+  <text x="351" y="836" font-family="Inter, sans-serif" font-size="9" fill="#8A8A8E" text-anchor="middle">Hub</text>
+</svg>
